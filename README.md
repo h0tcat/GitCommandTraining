@@ -1,0 +1,2 @@
+# GitCommandTraining
+ETロボコン会議で使用するGit練習用ブランチです
