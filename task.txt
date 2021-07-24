@@ -1,0 +1,8 @@
+Gitコマンドで最低限必要な知識・技術を箇条書きにする
+
+・add
+・commit
+・push
+・pull
+・fetch
+
